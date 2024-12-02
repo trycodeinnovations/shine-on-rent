@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "903799597617",
+    "project_id": "shine-on-rent",
+    "storage_bucket": "shine-on-rent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903799597617:android:e158ce9d297a3965ad8310",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIalXbLTeItfikxD1EYF2OmCzJihBEmR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
